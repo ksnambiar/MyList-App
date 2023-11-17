@@ -4,12 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Pre-requisites
 
- - Install Nodejs
- - create react app using the command `npx create-react-app myapp`
+ - Install Nodejs - [https://nodejs.org/en]
+ - create react app using the command `npx create-react-app myapp` (Note* - this is just when you are creating a new app. IF cloning this repo, you don't have to follow this step)
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+Installs all dependencies required for this application to work properly.
 
 ### `npm start`
 
